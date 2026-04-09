@@ -1,6 +1,8 @@
+x = 10
+y = 25
 
-temp = a
-a = b
-b = temp
+print("Before Swap: x =", x, "y =", y)
 
-print(a,b)
+x, y = y, x
+
+print("After Swap: x =", x, "y =", y)
