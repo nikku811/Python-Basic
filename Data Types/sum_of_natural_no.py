@@ -1,5 +1,5 @@
 # Input the value of n
-n = 10
+n = int(input("Enter the value of Natural number : "))
 
 # Calculate the sum using the formula
 sum_n = n * (n + 1) // 2
