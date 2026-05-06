@@ -1,4 +1,5 @@
 # Data types example
+print("Data types in Python")
 a = 10              # int
 b = 5.5             # float
 c = "Hello"         # string
