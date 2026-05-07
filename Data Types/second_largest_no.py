@@ -17,3 +17,7 @@ def getSecondLargest(arr):
     
     # If no second largest element was found, return -1
     return -1
+
+if __name__ == "_main_":
+    arr = [12, 35, 1, 10, 34]
+    print(getSecondLargest(arr))
